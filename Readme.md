@@ -1,5 +1,5 @@
 
-# 🧪 Nodelab
+# 🧪 Stucy
 
 A powerful CLI tool to generate Node.js backend project structures instantly.
 
